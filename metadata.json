@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Copy of AutoFact Bot for Telegram",
+  "description": "An automated bot that generates interesting facts and accompanying AI images using Gemini, posting them to a Telegram channel or chat every minute.",
+  "requestFramePermissions": []
+}
